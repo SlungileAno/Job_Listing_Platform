@@ -1,4 +1,4 @@
-The project was created by the following contributers:
+The project was created by the following contributors:
 
 1.Slungile Muthwa- Frontend(Job Listing)
 
